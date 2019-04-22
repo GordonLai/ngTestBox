@@ -1,0 +1,372 @@
+{
+  "CameraStreamInfo": [
+    {
+      "CameraName": "7F Front Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/484"
+    },
+    {
+      "CameraName": "1F Front Point to Center Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/485"
+    },
+    {
+      "CameraName": "1F to ATM - R Pi",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/486"
+    },
+    {
+      "CameraName": "B1 Front Point - R Pi",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/487"
+    },
+    {
+      "CameraName": "B1 Back Point - R Pi",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/488"
+    },
+    {
+      "CameraName": "B2 Front Point - R Pi",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/489"
+    },
+    {
+      "CameraName": "B2 Back Point - R Pi",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/490"
+    },
+    {
+      "CameraName": "4F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/491"
+    },
+    {
+      "CameraName": "7F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/492"
+    },
+    {
+      "CameraName": "7F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/493"
+    },
+    {
+      "CameraName": "4F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/494"
+    },
+    {
+      "CameraName": "8F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/495"
+    },
+    {
+      "CameraName": "8F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/496"
+    },
+    {
+      "CameraName": "4F Front Point CCR",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/497"
+    },
+    {
+      "CameraName": "4F Back Point Glass Door",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/498"
+    },
+    {
+      "CameraName": "7F Front Point Glass Door",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/499"
+    },
+    {
+      "CameraName": "7F Front Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/500"
+    },
+    {
+      "CameraName": "6F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/501"
+    },
+    {
+      "CameraName": "6F Front Point Ladder",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/502"
+    },
+    {
+      "CameraName": "6F Front Point Glass Door",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/503"
+    },
+    {
+      "CameraName": "6F Front Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/504"
+    },
+    {
+      "CameraName": "6F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/505"
+    },
+    {
+      "CameraName": "5F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/506"
+    },
+    {
+      "CameraName": "5F Front Point Ladder",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/507"
+    },
+    {
+      "CameraName": "5F Front Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/508"
+    },
+    {
+      "CameraName": "5F Back Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/509"
+    },
+    {
+      "CameraName": "5F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/510"
+    },
+    {
+      "CameraName": "3F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/511"
+    },
+    {
+      "CameraName": "3F Front Point Ladder",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/512"
+    },
+    {
+      "CameraName": "3F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/513"
+    },
+    {
+      "CameraName": "3F Back Point Public Area",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/514"
+    },
+    {
+      "CameraName": "3F Back Point Fab",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/515"
+    },
+    {
+      "CameraName": "2F Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/516"
+    },
+    {
+      "CameraName": "2F Front Point Ladder",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/517"
+    },
+    {
+      "CameraName": "2F Front Point Door",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/518"
+    },
+    {
+      "CameraName": "2F Front Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/519"
+    },
+    {
+      "CameraName": "2F Front Point Center Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/520"
+    },
+    {
+      "CameraName": "2F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/521"
+    },
+    {
+      "CameraName": "2F Back Point Inside Aisle",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/522"
+    },
+    {
+      "CameraName": "2F Back Point Left Corner",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/523"
+    },
+    {
+      "CameraName": "1F Front Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/524"
+    },
+    {
+      "CameraName": "1F Front Switchboard",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/525"
+    },
+    {
+      "CameraName": "1F Front Center Aisle to Front",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/526"
+    },
+    {
+      "CameraName": "1F Front Center Aisle to Back",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/527"
+    },
+    {
+      "CameraName": "1F Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/528"
+    },
+    {
+      "CameraName": "1F Back Point Left Corner",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/529"
+    },
+    {
+      "CameraName": "1F Back Point Public Area",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/530"
+    },
+    {
+      "CameraName": "B1 Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/531"
+    },
+    {
+      "CameraName": "B1 Front Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/532"
+    },
+    {
+      "CameraName": "B1 Front Turning Lane",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/533"
+    },
+    {
+      "CameraName": "B1 Front Parking No. 57- 58",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/534"
+    },
+    {
+      "CameraName": "B1 Front Parking No. 21- 22",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/535"
+    },
+    {
+      "CameraName": "B1 Front Parking No. 86",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/536"
+    },
+    {
+      "CameraName": "B1 Back Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/537"
+    },
+    {
+      "CameraName": "B1 Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/538"
+    },
+    {
+      "CameraName": "B1 Back Parking No. 16 - 17",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/539"
+    },
+    {
+      "CameraName": "B1 Back Parking No. 81",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/540"
+    },
+    {
+      "CameraName": "B2 Front Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/541"
+    },
+    {
+      "CameraName": "B2 Front Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/542"
+    },
+    {
+      "CameraName": "B2 Front Parking No. 20",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/543"
+    },
+    {
+      "CameraName": "B2 Front Parking No. 65",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/544"
+    },
+    {
+      "CameraName": "B2 Out Gateway",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/545"
+    },
+    {
+      "CameraName": "B2 Back Point",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/546"
+    },
+    {
+      "CameraName": "B2 Back Point Elevator",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/547"
+    },
+    {
+      "CameraName": "B2 Back Parking No. 15 - 16",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/548"
+    },
+    {
+      "CameraName": "B2 Back Parking No. 58",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/549"
+    },
+    {
+      "CameraName": "B2 Outside to Gateway",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/550"
+    },
+    {
+      "CameraName": "B2 Outside to Gas Room",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/551"
+    },
+    {
+      "CameraName": "B2 Outside Near Gateway to Out Lane",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/552"
+    },
+    {
+      "CameraName": "B2 Outside Moto Parking Center Area",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/553"
+    },
+    {
+      "CameraName": "B2 Outside Moto Parking Upper Left",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/554"
+    },
+    {
+      "CameraName": "B2 Outside Moto Parking Left",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/555"
+    },
+    {
+      "CameraName": "B2 Outside Moto Parking Lower Left",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/556"
+    },
+    {
+      "CameraName": "B2 Outside Moto Parking Upmost Left",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/557"
+    },
+    {
+      "CameraName": "CPC 1F Lobby",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/558"
+    },
+    {
+      "CameraName": "CPC 1F Warehouse",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/559"
+    },
+    {
+      "CameraName": "CPC 3F Workshop",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/560"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 1",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/561"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 2",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/562"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 3",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/563"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 4",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/564"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 5",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/565"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 6",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/566"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 7",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/567"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 8",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/568"
+    },
+    {
+      "CameraName": "2nd Parking Lot - 9",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/569"
+    },
+    {
+      "CameraName": "1F Outdoor 150",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/570"
+    },
+    {
+      "CameraName": "1F Outdoor 151",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/571"
+    },
+    {
+      "CameraName": "1F Outdoor 152",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/572"
+    },
+    {
+      "CameraName": "1F Outdoor 153",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/573"
+    },
+    {
+      "CameraName": "1F Outdoor 154",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/574"
+    },
+    {
+      "CameraName": "1F Outdoor 85",
+      "StreamUrl": "http://10.2.23.35/mobile_ccc/media_show/show_mcam/575"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+ul {
+  text-align: center;
+}
+* {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "微軟正黑體";
+}
+
+.links {
+  display: inline-block;
+  padding: 5px;
+  font-size: 18px;
+  font-family: Arial;
+  font-weight: normal;
+}
+
+li {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+li + li {
+  margin-top: 10px;
+}
+
+a.open {
+  color: red;
+}

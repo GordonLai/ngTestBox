@@ -1,0 +1,56 @@
+<!-- The content below is only a placeholder and can be replaced. -->
+<!-- Router基礎介紹 https://ithelp.ithome.com.tw/articles/10195346 -->
+<div>
+  <router-outlet (activate)="onActivate($event)"></router-outlet>
+  {{clients}}<br />
+  <div>
+    <h3>切換連結來觀看變化</h3>
+    <a
+      class="links"
+      [routerLinkActiveOptions]="{exact:
+      true}"
+      routerLinkActive="open"
+      routerLink="/"
+      >index</a
+    >
+    <a
+      class="links"
+      [routerLinkActiveOptions]="{exact:
+      true}"
+      routerLinkActive="open"
+      routerLink="/topic"
+      >topic</a
+    >
+  </div>
+  <div *ngIf="routerUnit === '/topic'">
+    <select
+      name=""
+      [(ngModel)]="form.selector"
+      (change)="co2Change()"
+      type="submit"
+    >
+      <option value="">請選擇</option>
+      <optgroup *ngFor="let datas of co2.SensorInfo" [label]="datas.Floor">
+        <option
+          *ngFor="let child of datas.Location"
+          [value]="datas.Floor + '/' + child"
+        >
+          {{child}}
+        </option>
+      </optgroup>
+    </select>
+    <h5>
+      {{form.selector !== '' ? '你選擇的是 : ' + form.selector :
+      '請選擇一個區域攝影機'}}
+    </h5>
+    <span *ngIf="form.list.length > 0">
+      <h3>相關節點 ↓</h3>
+      <ol>
+        <li *ngFor="let data of form.list">
+          {{data.CameraName}}<br />{{data.StreamUrl}}
+        </li>
+      </ol>
+    </span>
+  </div>
+  <canvas id="video-canvas" width="704" height="600"></canvas>
+</div>

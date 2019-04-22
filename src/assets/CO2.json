@@ -1,0 +1,30 @@
+{
+  "FactoryArea": "Hsinchu",
+  "SensorType": "CO2",
+  "SensorInfo": [
+    {
+      "Floor": "2F",
+      "Location": ["辦公區前段"]
+    },
+    {
+      "Floor": "3F",
+      "Location": ["辦公區後段", "辦公區前段"]
+    },
+    {
+      "Floor": "4F",
+      "Location": ["辦公區後段", "辦公區前段"]
+    },
+    {
+      "Floor": "5F",
+      "Location": ["辦公區前段", "辦公區後段"]
+    },
+    {
+      "Floor": "6F",
+      "Location": ["辦公區前段"]
+    },
+    {
+      "Floor": "7F",
+      "Location": ["辦公區前段"]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+@import "../../../stylings/media.scss"
+
+.main-container
+    background: #F2F3F5
+    width: 100vw
+    height: calc(100vh - 49px)
+    position: fixed
+    top: 49px
+    left: 0
+    .coverPhoto
+        background: url(https://firebasestorage.googleapis.com/v0/b/hexschool-api.appspot.com/o/web%2Fevents%2F2019-js-starter%2Fhex-banner.png?alt=media&token=b21d2816-14b9-4dc8-b47b-6f189f93b836) no-repeat center center
+        background-size: cover
+        height: 30%
+        img
+            height: 100%
+            display: block
+            margin: auto
+            opacity: 0
+
+.main-window
+    position: fixed
+    display: flex
+    opacity: 0
+    transition: .5s
+    z-index: -1
+    align-items: center
+    justify-content: center
+    top: 0
+    left: 0
+    width: 100vw
+    height: 100vh
+    background: rgba(0, 0, 0, .8)
+    .main-box
+        background: white
+        max-width: 600px
+        width: 90%
+        padding: 20px
+        box-shadow: 0 0 1px black
+        position: relative
+        border-radius: 1px
+        .closeBtn
+            position: absolute
+            right: 0
+            top: 0
+            text-decoration: none
+            color: black
+            display: block
+            padding: 15px
+    .profile
+        > *
+            display: inline-block
+            vertical-align: top
+            letter-spacing: 1px
+            font-size: 13px
+        .photo
+            background-repeat: no-repeat
+            background-size: cover
+            background-position: center center
+            width: 60px
+            height: 60px
+            overflow: hidden
+            border-radius: 100%
+            margin-right: 2vw
+        .photo img
+            max-width: 100px
+            opacity: 0
+        .text
+            font-size: 18px
+            font-weight: 500
+            max-width: calc(100% - 85px)
+            small
+                font-size: 12px
+                margin-left: -4px
+        .detail
+            margin-top: 20px
+            line-height: 25px
+        .social a
+            display: inline-block
+            vertical-align: top
+            line-height: 50px
+            font-family: "Font Awesome 5 Brands", "Font Awesome 5 Free", "Font Awesome 5 Solid"
+            text-decoration: none
+            color: #dedfe0
+        .social a:hover
+            color: #333333
+        .social a:before
+            display: block
+            font-size: 20px
+            font-style: normal
+            font-variant: normal
+            text-rendering: auto
+            -webkit-font-smoothing: antialiased
+        .social a + a 
+            margin-left: 10px
+        .social a[href*="facebook.com"]:before
+            content: "\f082"
+        .social a[href*="youtube.com"]:before
+            content: "\f167"
+        .social a[href*="hexschool.com"]:before
+            content: "\f41f"
+            
+
+.main-window.active 
+    opacity: 1
+    z-index: 10
+    
+.main-content
+    padding: 2vw 5vw
+    padding-bottom: 5vw
+    font-family: 'Noto Sans TC', 'sans-serif' ,'å¾®è»æ­£é»é«'
+    height: 70%
+    overflow: hidden
+    overflow-y: auto
+    .item
+        font-size: 15px
+        letter-spacing: 1px
+        color: #505763
+        > *
+            padding-top: 10px
+        .unit-title
+            font-size: 30px
+            padding: 20px 0
+            font-weight: 500
+            color: #ff5151
+            position: relative
+            .teacher
+                position: absolute
+                right: 0
+                top: 0
+                > *
+                    display: inline-block
+                    vertical-align: middle
+                > * + *
+                    margin-left: 10px
+                .teacher-title
+                    font-size: 12px
+                    color: #505763
+                .teacher-item
+                    cursor: pointer
+                .teacher-item img
+                    height: 50px
+        .item-th
+            font-weight: 500
+            color: #685a51
+        .item-td
+            font-size: 13px
+            a
+                color: #505763
+                text-decoration: none
+            a:hover
+                color: #76C5D6
+            .item-box
+                margin-top: 10px
+                ol
+                    margin-top: 0
+    .item + .item 
+        margin-top: 20px
+
+@include xs
+    .main-content
+        .item
+            .unit-title
+                font-size: 20px
+                line-height: 28px
+                padding-bottom: 0
+                .teacher
+                    position: static
+                    margin-top: 10px
+        .item + .item
+            margin-top: 0
+
+    .main-window
+        .main-box
+            .profile
+                .text small
+                    display: block
+                    margin-left: 0
+            .social a
+                line-height: inherit

@@ -1,0 +1,35 @@
+{
+  "FactoryArea": "Hsinchu",
+  "Function": [
+    {
+      "Classification": "人",
+      "Option": [
+        {
+          "Name": "今日上班概況",
+          "Topic": "Json/Hsinchu/Attendance",
+          "GraphType": "pie"
+        },
+        {
+          "Name": "中餐用餐概況",
+          "Topic": "Json/Hsinchu/FoodCount",
+          "GraphType": "bar"
+        }
+      ]
+    },
+    {
+      "Classification": "環",
+      "Option": [
+        {
+          "Name": "各樓層CO2含量",
+          "Topic": "Json/Hsinchu/CO2/#",
+          "GraphType": "line"
+        },
+        {
+          "Name": "攝影機即時狀況",
+          "Topic": "NULL",
+          "GraphType": "NULL"
+        }
+      ]
+    }
+  ]
+}

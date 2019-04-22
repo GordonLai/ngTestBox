@@ -1,2 +1,0 @@
-# ngTestBox
-Created with CodeSandbox
